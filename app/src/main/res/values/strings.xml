@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColorChanger</string>
+    <string name="color_changer">Color Roulette</string>
+    <string name="hello_world">Hello World</string>
+    <string name="backgroundcolor">BackGroundColor</string>
+    <string name="text_color">Text Color</string>
+</resources>
